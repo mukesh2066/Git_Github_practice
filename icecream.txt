@@ -1,0 +1,7 @@
+chocolate
+vanilla
+strawberry
+blackcurrent
+butterscotch
+milk
+mango
