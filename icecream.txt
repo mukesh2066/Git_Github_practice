@@ -6,4 +6,4 @@ butterscotch
 milk
 mango
 red velvet
-reset
+pista
